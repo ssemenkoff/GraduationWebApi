@@ -14,6 +14,13 @@ namespace Core_Server.Helpers {
             Role = "Admin"
         };
 
+        private static User DefaultAdmin1 = new User {
+            Login = "ssemenkoff",
+            Email = "Admin@admin.com",
+            Password = "Slavik96",
+            Role = "Admin"
+        };
+
         public static void Initialize(UserContext userContext, DataContext dataContext)
         {
             Console.WriteLine("Filling Database");
@@ -32,7 +39,13 @@ namespace Core_Server.Helpers {
                 return;
             }
 
+            if (context.Users.FirstOrDefault(x => x.Login == DefaultAdmin1.Login) != null)
+            {
+                return;
+            }
+
             context.Users.Add(DefaultAdmin);
+            context.Users.Add(DefaultAdmin1);
 
             User sampleUser = new User {
                 Login = "Username",

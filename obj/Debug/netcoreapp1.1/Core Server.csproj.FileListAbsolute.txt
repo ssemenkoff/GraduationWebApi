@@ -14,3 +14,11 @@
 /home/ssemenkoff/Documents/GitRepos/Graduation/Core Server/obj/Debug/netcoreapp1.1/Core Server.AssemblyInfo.cs
 /home/ssemenkoff/Documents/GitRepos/Graduation/Core Server/obj/Debug/netcoreapp1.1/Core Server.dll
 /home/ssemenkoff/Documents/GitRepos/Graduation/Core Server/obj/Debug/netcoreapp1.1/Core Server.pdb
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/bin/Debug/netcoreapp1.1/Core Server.deps.json
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/bin/Debug/netcoreapp1.1/Core Server.runtimeconfig.json
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/bin/Debug/netcoreapp1.1/Core Server.runtimeconfig.dev.json
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/bin/Debug/netcoreapp1.1/Core Server.dll
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/bin/Debug/netcoreapp1.1/Core Server.pdb
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/obj/Debug/netcoreapp1.1/Core Server.AssemblyInfo.cs
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/obj/Debug/netcoreapp1.1/Core Server.dll
+/home/ssemenkoff/Documents/GitRepos/GraduationWebApi/obj/Debug/netcoreapp1.1/Core Server.pdb
